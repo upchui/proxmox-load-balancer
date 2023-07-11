@@ -5,7 +5,7 @@ The Proxmox Load Balancer Pro script is designed to automatically load balance t
 
 Please consider leaving a star if you find this script useful. Your feedback and feature requests are always welcome.
 
-This application can be deployed as a Docker container for easy management and scaling.
+This application can be deployed as a Docker container for easy management and scaling. You can find the source code for the script on https://github.com/upchui/proxmox-load-balancer and the Docker images are available on https://hub.docker.com/r/thealhu/proxmox-load-balancer.
 
 ## Features
 
