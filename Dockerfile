@@ -21,7 +21,7 @@ RUN chmod +x /bootstrap.sh
 
 
 # Install pip requirements
-RUN pip3 install -r /Proxmox-load-balancer/requirements.txt
+RUN pip3 install -r /Proxmox-load-balancer/requirements.txt --break-system-packages
 
 # Set persist data VOLUME
 RUN mkdir /config
